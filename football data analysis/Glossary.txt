@@ -1,0 +1,48 @@
+Glossary
+Rk -- Rank
+
+Nation -- Nationality of the player.
+
+Pos -- Position
+Position most commonly played by the player
+GK - Goalkeepers
+DF - Defenders
+MF - Midfielders
+FW - Forwards
+FB - Fullbacks
+LB - Left Backs
+RB - Right Backs
+CB - Center Backs
+DM - Defensive Midfielders
+CM - Central Midfielders
+LM - Left Midfielders
+RM - Right Midfielders
+WM - Wide Midfielders
+LW - Left Wingers
+RW - Right Wingers
+AM - Attacking Midfielders
+
+
+Age -- Age at season start
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+
+Born -- Year of birth
+
+Playing Time
+MP -- Matches Played
+Matches Played by the player or squad
+Starts -- Game or games started by player
+Min -- Minutes
+90s -- 90s Played
+Performance
+Gls -- Goals
+Ast -- Assists
+G+A -- Goals + Assists
+G-PK -- Non-Penalty Goals
+PK -- Penalty Kicks Made
+PKatt -- Penalty Kicks Attempted
+CrdY -- Yellow Cards
+CrdR -- Red Cards
+Expected
+xG -- xG: Expected Goals
