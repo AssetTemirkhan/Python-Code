@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+584693,46,BlockedShot,0.874000015,0.33799999237060546,0.040267952,Mohamed Salah,a,1250,FromCorner,2024,LeftFoot,26603,Ipswich,Liverpool,0,2,17/08/2024 11:30,Luis Díaz,Pass
+584700,64,Goal,0.9369999694824219,0.4490000152587891,0.5713244676589966,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26603,Ipswich,Liverpool,0,2,17/08/2024 11:30,,None
+584702,70,SavedShot,0.8369999694824218,0.5629999923706055,0.40319985151290894,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26603,Ipswich,Liverpool,0,2,17/08/2024 11:30,Dominik Szoboszlai,Throughball
+584707,93,SavedShot,0.9309999847412109,0.34700000762939454,0.081942737,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26603,Ipswich,Liverpool,0,2,17/08/2024 11:30,,None
+586849,20,MissedShots,0.8819999694824219,0.3139999961853027,0.064413816,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26621,Liverpool,Brentford,2,0,25/08/2024 15:30,Trent Alexander-Arnold,Pass
+586869,67,SavedShot,0.8640000152587891,0.27,0.043790348,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26621,Liverpool,Brentford,2,0,25/08/2024 15:30,Dominik Szoboszlai,Pass
+586870,69,Goal,0.894000015,0.37900001525878907,0.3250463306903839,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26621,Liverpool,Brentford,2,0,25/08/2024 15:30,Luis Díaz,Pass
+589908,55,Goal,0.8569999694824219,0.42,0.2954355478286743,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26631,Manchester United,Liverpool,0,3,01/09/2024 15:00,Dominik Szoboszlai,Pass
+589909,56,MissedShots,0.860999985,0.4909999847412109,0.1737222522497177,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26631,Manchester United,Liverpool,0,3,01/09/2024 15:00,,TakeOn
+589910,57,BlockedShot,0.865,0.2929999923706055,0.053936388,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26631,Manchester United,Liverpool,0,3,01/09/2024 15:00,Alexis Mac Allister,Pass
+590861,51,SavedShot,0.965,0.3220000076293945,0.08929038,Mohamed Salah,h,1250,OpenPlay,2024,RightFoot,26635,Liverpool,Nottingham Forest,0,1,14/09/2024 14:00,Trent Alexander-Arnold,TakeOn
+590865,65,MissedShots,0.7680000305175781,0.34,0.020339200273156166,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26635,Liverpool,Nottingham Forest,0,1,14/09/2024 14:00,Ibrahima Konaté,Chipped
+590870,75,SavedShot,0.9069999694824219,0.24299999237060546,0.03092753,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26635,Liverpool,Nottingham Forest,0,1,14/09/2024 14:00,Dominik Szoboszlai,Pass
+592400,12,SavedShot,0.8569999694824219,0.36400001525878906,0.083946623,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26645,Liverpool,Bournemouth,3,0,21/09/2024 14:00,Alexis Mac Allister,Pass
+592413,39,SavedShot,0.870999985,0.3240000152587891,0.077777222,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26645,Liverpool,Bournemouth,3,0,21/09/2024 14:00,Ryan Gravenberch,Pass
+592418,58,BlockedShot,0.9119999694824219,0.6179999923706054,0.1671527922153473,Mohamed Salah,h,1250,OpenPlay,2024,RightFoot,26645,Liverpool,Bournemouth,3,0,21/09/2024 14:00,,TakeOn
+592417,58,SavedShot,0.950999985,0.6029999923706054,0.12669971585273743,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26645,Liverpool,Bournemouth,3,0,21/09/2024 14:00,Alexis Mac Allister,Chipped
+594314,49,MissedShots,0.86,0.3679999923706055,0.32834869623184204,Mohamed Salah,a,1250,OpenPlay,2024,RightFoot,26658,Wolverhampton Wanderers,Liverpool,1,2,28/09/2024 16:30,,None
+594316,60,Goal,0.885,0.5,0.7611688375473022,Mohamed Salah,a,1250,Penalty,2024,LeftFoot,26658,Wolverhampton Wanderers,Liverpool,1,2,28/09/2024 16:30,,Standard
+594317,64,SavedShot,0.8419999694824218,0.3039999961853027,0.065382421,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26658,Wolverhampton Wanderers,Liverpool,1,2,28/09/2024 16:30,Trent Alexander-Arnold,Pass
+595228,47,BlockedShot,0.865,0.3270000076293945,0.070971504,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26662,Crystal Palace,Liverpool,0,1,05/10/2024 11:30,Curtis Jones,Pass
+595230,55,SavedShot,0.9019999694824219,0.40900001525878904,0.3083310127258301,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26662,Crystal Palace,Liverpool,0,1,05/10/2024 11:30,Virgil van Dijk,Chipped
+597742,25,BlockedShot,0.8490000152587891,0.28,0.031621892005205154,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26679,Liverpool,Chelsea,2,1,20/10/2024 15:30,Curtis Jones,Pass
+597743,28,Goal,0.885,0.5,0.7611688375473022,Mohamed Salah,h,1250,Penalty,2024,LeftFoot,26679,Liverpool,Chelsea,2,1,20/10/2024 15:30,,Standard
+599063,13,MissedShots,0.76,0.385,0.018175456672906876,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26691,Arsenal,Liverpool,2,2,27/10/2024 16:30,,BallRecovery
+599071,51,SavedShot,0.9669999694824218,0.34900001525878904,0.062728263,Mohamed Salah,a,1250,OpenPlay,2024,RightFoot,26691,Arsenal,Liverpool,2,2,27/10/2024 16:30,Alexis Mac Allister,Pass
+599077,80,Goal,0.8930000305175781,0.46,0.5900135040283203,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26691,Arsenal,Liverpool,2,2,27/10/2024 16:30,Darwin Núñez,Pass
+600140,25,MissedShots,0.9819999694824219,0.3920000076293945,0.058201268,Mohamed Salah,h,1250,OpenPlay,2024,RightFoot,26696,Liverpool,Brighton,2,1,02/11/2024 15:00,Trent Alexander-Arnold,Foul
+600151,55,SavedShot,0.905,0.3509999847412109,0.27347931265830994,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26696,Liverpool,Brighton,2,1,02/11/2024 15:00,Darwin Núñez,Chipped
+600156,71,Goal,0.8519999694824218,0.31799999237060544,0.06631127,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26696,Liverpool,Brighton,2,1,02/11/2024 15:00,Curtis Jones,Pass
+601734,4,BlockedShot,0.8719999694824219,0.3579999923706055,0.096575528,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26707,Liverpool,Aston Villa,2,0,09/11/2024 20:00,Trent Alexander-Arnold,Pass
+601751,60,BlockedShot,0.8059999847412109,0.500999985,0.058869667,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26707,Liverpool,Aston Villa,2,0,09/11/2024 20:00,Luis Díaz,Pass
+601758,83,Goal,0.950999985,0.44599998474121094,0.620209277,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26707,Liverpool,Aston Villa,2,0,09/11/2024 20:00,,Interception
+603446,5,SavedShot,0.87,0.3189999961853027,0.07900741,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,Dominik Szoboszlai,Pass
+603447,8,MissedShots,0.9580000305175781,0.34900001525878904,0.04843333,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,Andrew Robertson,Cross
+603449,20,SavedShot,0.95,0.34599998474121096,0.2650887072086334,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,Cody Gakpo,Cross
+603465,64,Goal,0.875,0.29600000381469727,0.2497328668832779,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,Ryan Gravenberch,Chipped
+603474,82,Goal,0.885,0.5,0.7611688375473022,Mohamed Salah,a,1250,Penalty,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,,Standard
+603475,84,MissedShots,0.855,0.375,0.12296708673238754,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,Dominik Szoboszlai,Chipped
+603476,87,ShotOnPost,0.9490000152587891,0.40700000762939453,0.1406598687171936,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,24/11/2024 14:00,,None
+604826,55,MissedShots,0.8480000305175781,0.44599998474121094,0.3509168326854706,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26726,Liverpool,Manchester City,2,0,01/12/2024 16:00,,BallRecovery
+604829,62,MissedShots,0.8430000305175781,0.6419999694824219,0.066375993,Mohamed Salah,h,1250,OpenPlay,2024,LeftFoot,26726,Liverpool,Manchester City,2,0,01/12/2024 16:00,Luis Díaz,BallRecovery
+604831,77,Goal,0.885,0.5,0.7611688375473022,Mohamed Salah,h,1250,Penalty,2024,LeftFoot,26726,Liverpool,Manchester City,2,0,01/12/2024 16:00,,Standard
+605239,13,BlockedShot,0.92,0.35200000762939454,0.092056975,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26740,Newcastle United,Liverpool,3,3,04/12/2024 19:30,Curtis Jones,Pass
+605258,67,Goal,0.9569999694824218,0.415,0.4565964639186859,Mohamed Salah,a,1250,OpenPlay,2024,RightFoot,26740,Newcastle United,Liverpool,3,3,04/12/2024 19:30,Trent Alexander-Arnold,Pass
+605265,81,ShotOnPost,0.9590000152587891,0.3320000076293945,0.080293812,Mohamed Salah,a,1250,OpenPlay,2024,RightFoot,26740,Newcastle United,Liverpool,3,3,04/12/2024 19:30,Trent Alexander-Arnold,TakeOn
+605266,82,Goal,0.905,0.46599998474121096,0.1345466822385788,Mohamed Salah,a,1250,OpenPlay,2024,LeftFoot,26740,Newcastle United,Liverpool,3,3,04/12/2024 19:30,Trent Alexander-Arnold,Pass
